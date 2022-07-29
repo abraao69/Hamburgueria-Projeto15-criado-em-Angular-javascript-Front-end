@@ -1,0 +1,52 @@
+.banner{
+    background-image: url(../../../assets/img/hamburguer.png);
+    height: 1300px;
+    background-position: center top;
+    background-size: cover;
+   
+}
+.banner h3{
+
+color:rgb(217, 255, 0);
+font-size: 10px;
+font-weight: Roboto;
+top: 20%;
+left: 20%;
+position: absolute;
+margin-top: 50%;
+}
+.content{
+
+top:18%;
+left: 20%;
+position: absolute;
+
+
+}
+
+.content h3{
+color:yellow;
+font-size: 30px;
+margin-top: auto;
+top: 35px;
+text-align: left;
+margin-right: 35px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.content a{
+
+    text-decoration: none;
+    background-color: white;
+    color: blueviolet;
+    padding: 16px 20px; 
+    border-radius: 8px;
+    font-weight: bold;
+
+}
+.content a:hover{
+background-color: blueviolet;
+color: white;
+
+}
