@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://bccdn.xyz:80/787526340716/32576060782/715
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265
